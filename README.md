@@ -10,5 +10,6 @@
   <img align="center" alt="Heitor-CSS" height="35" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Heitor-Python" height="35" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Heitor-C" height="35" width="90" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+ <img align="center" alt="Heitor-Java" height="35" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
   
